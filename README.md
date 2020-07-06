@@ -3,12 +3,7 @@ Stores all needed information in ESP-32 EERPOM for Ethernet connection. Stores: 
 
 Hardware
 
-ESP-32
-
-W5500
-
-DSD OLED
-
+ESP-32, W5500, DSD OLED
 
 Code
 
